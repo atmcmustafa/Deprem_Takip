@@ -1,9 +1,8 @@
 # React + Vite
 
-![2](https://github.com/atmcmustafa/Deprem_Takip/assets/98126723/96de85f1-c889-468a-9903-2731161a78b9)
+![2](https://github.com/atmcmustafa/Deprem_Takip/assets/98126723/df7cd269-cdca-4146-bd26-dc91c1a502b8)
 
-- Orhanaydoğdu ve kandilli rasathanesi verileri kullanarak yapılmıştır. Türkiye'de gerçekleşen son 100 deprem listelenmiştir.
-
+- Kullandığım Api : https://api.orhanaydogdu.com.tr/deprem/api-docs/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
